@@ -1,5 +1,5 @@
 # SugestionsToRules
-In this PowerPoint presentation, I analyze the potential errors of the admissions criteria of the colleges and provide suggestion.
+In this PowerPoint presentation, I analyze the potential errors of the SQL admissions criteria of the colleges I work for and provide suggestion.
 
 
 
